@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shyam1409
+- 👋 Hi, I’m @Shyam1412
 - 👀 I’m interested in Artificial Intelligence 
 - 🌱 I’m currently learning Artificial intelligence and Machine Learning 
 - 💞️ I’m looking to collaborate on Artificial Intelligence 
